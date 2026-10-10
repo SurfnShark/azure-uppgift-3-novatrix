@@ -1,0 +1,5 @@
+v36/config.local.sh
+v36/evidence/
+*.secret
+.env
+*.pdf
